@@ -7,3 +7,8 @@
 .chef/encrypted_data_bag_secret
 
 nodes/*
+
+LICENSE
+local-mode-cache*
+
+
